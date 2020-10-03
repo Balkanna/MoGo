@@ -172,7 +172,7 @@ body {
   opacity: 1;
 }
 
-.active::before {
+.intro__slider-item_active::before {
   display: block;
   position: absolute;
   top: -3px;
